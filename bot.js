@@ -2,7 +2,7 @@ const mineflayer = require('mineflayer');
 
 function createBot() {
     const bot = mineflayer.createBot({
-        host: 'rhinoceros.aternos.host:18384', // <--- REEMPLAZA ESTO POR LA IP DE TU SERVER
+        host: 'cuajadaland.aternos.me:18384', // <--- REEMPLAZA ESTO POR LA IP DE TU SERVER
         port: 18384,                // Puerto predeterminado de Minecraft
         username: 'fabio24/7',    // Nombre genérico del bot/NPC dentro del juego
         version: false              // Autodetecta la versión exacta del servidor (1.8 a 1.21+)
